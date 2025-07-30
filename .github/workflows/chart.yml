@@ -1,23 +1,32 @@
 name: Update vocabulary chart
+
 on:
   push:
     paths:
-      - progress.csv
+      - progress.csv          # 只要 progress.csv 变动就触发
   schedule:
-    - cron: '0 11 * * *'   # 每天 UTC 11 点＝韩/中 20 点
+    - cron: '0 11 * * *'      # 每天 UTC 11 点（韩/中 20 点）再跑一次
+
 jobs:
   build:
+    permissions:
+      contents: write         # 关键！给 bot 写入（push）权限
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - name: Install deps
         run: pip install pandas matplotlib
+
       - name: Generate chart
         run: python generate_chart.py
+
       - name: Commit & push
         run: |
           git config user.name  "github-actions[bot]"
