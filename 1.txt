@@ -1,0 +1,107 @@
+a , 一个；一件；任何；每一 例：I have -- cat.（我有一只猫）
+about , 关于；大约；围绕；涉及 例：Let’s talk -- the plan.（让我们谈谈这个计划）
+all , 所有；全部；整；一切 例：-- of them are here.（他们都在这儿）
+also , 也；同样；而且；此外 例：I like apples, and I -- like oranges.（我喜欢苹果，也喜欢橙子）
+am , 是；处于；位于；存在 例：I -- a teacher.（我是一名老师）
+an , 一个；一件；任何；每一 例：He needs -- umbrella.（他需要一把伞）
+and , 和；与；而且；以及 例：Tom -- Jerry are friends.（汤姆和杰瑞是朋友）
+as , 作为；像……一样；因为；当……时 例：I work -- a teacher.（我作为一名老师工作）
+at , 在；于；向；对准 例：She is -- the park.（她在公园里）
+back , 背部；后面；返回；背面 例：My -- hurts.（我背疼）
+be , 是；成为；存在；位于 例：I want to -- happy.（我想快乐）
+because , 因为；由于；既然；为的是 例：I stayed home -- it was raining.（我待在家因为下雨）
+but , 但是；然而；只是；除……之外 例：I like tea, -- he likes coffee.（我喜欢茶，但他喜欢咖啡）
+by , 通过；借由；在旁边；被 例：We went there -- car.（我们开车去的）
+can , 能够；可以；会；罐头 例：I -- swim.（我会游泳）
+come , 来；到达；出现；发生 例：Please -- here.（请到这里来）
+could , 可以；能够；可能；也许 例：-- you help me?（你能帮我吗？）
+day , 天；日子；白昼；时期 例：It’s a sunny --.（今天是晴天）
+do , 做；执行；干；行 例：-- your homework.（做你的作业）
+even , 甚至；即使；平坦的；均匀的 例：-- he can do it.（连他都能做）
+find , 找到；发现；觉得；判决 例：I can’t -- my keys.（我找不到钥匙）
+first , 第一；首先；最先；头等 例：You are my -- friend here.（你是我在这里的第一个朋友）
+for , 为了；对于；因为；持续 例：This gift is -- you.（这是给你的礼物）
+from , 从；来自；由于；离开 例：I am -- China.（我来自中国）
+get , 得到；获得；变得；到达 例：I want to -- a new phone.（我想要一部新手机）
+give , 给；授予；递交；让步 例：-- me a chance.（给我一个机会）
+go , 去；离开；进行；运转 例：Let’s -- to the movies.（我们去看电影吧）
+good , 好；良好；优质；擅长的 例：That’s a -- idea.（那是一个好主意）
+have , 有；拥有；吃喝；经历 例：I -- two brothers.（我有两个兄弟）
+he , 他；那个男人；雄性；上帝（文） 例：-- is my friend.（他是我的朋友）
+her , 她的；她本人；她的东西；雌性 例：That’s -- book.（那是她的书）
+here , 这里；此处；现在；在此方面 例：I’ll wait for you --.（我会在这里等你）
+him(宾格) , 他；那个家伙；他本人；给他 例：I saw -- yesterday.（我昨天见到他了）
+his , 他的；属于他的；他的东西；他的家人 例：-- car is new.（他的车是新的）
+how , 如何；怎样；多么；多少 例：-- do you do that?（你如何做到的？）
+I , 我；本人；自己；字母 I 例：-- am happy.（我很开心）
+if , 如果；是否；假如；即使 例：-- it rains, I won’t go.（如果下雨，我就不去了）
+in , 在……里面；在……方面；以内；流行的 例：I live -- a big city.（我住在一个大城市里）
+into , 进入；深入；变成；对……有兴趣 例：Go -- the room.（进入房间）
+it , 它；这件事；天气；婴儿 例：-- is raining.（正在下雨）
+its , 它的；属于它的；它的东西；其本身 例：The cat ate -- food.（那只猫吃了它的食物）
+just , 只是；刚刚；正好；公平的 例：I -- arrived.（我刚到）
+know , 知道；了解；认识；掌握 例：I -- the answer.（我知道答案）
+like , 喜欢；像；想要；类似 例：I -- this song.（我喜欢这首歌）
+little , 小；少量；矮小；微不足道的 例：That’s a -- dog.（那是一只小狗）
+look , 看；注视；显得；寻找 例：-- at the sky.（看看天空）
+make , 做；制造；使得；赚取 例：-- a cake.（做一个蛋糕）
+me(宾格) , 我；给我；让我；本人 例：Give -- the book.（把那本书给我）
+more , 更多；进一步；附加；更大程度 例：I want -- time.（我想要更多时间）
+my , 我的；属于我的；我的东西；亲爱的 例：-- phone is new.（我的手机是新的）
+need , 需要；必须；需求；缺乏 例：I -- some help.（我需要一些帮助）
+no , 没有；不是；毫无；不要 例：-- money.（没钱）
+not , 不；没有；并非；未 例：I do -- like this.（我不喜欢这个）
+now , 现在；此刻；目前；于是 例：-- is the time to start.（现在是开始的时候）
+of , 的；属于；关于；由……制成 例：a cup -- tea（一杯茶）
+oh , 哦；啊；噢；哎呀 例：--, I see.（哦，我明白了）
+on , 在……上；关于；进行中；凭借 例：The book is -- the table.（书在桌子上）
+only , 只；仅有；唯一；不过 例：I -- have one dollar.（我只有一美元）
+or , 或者；还是；否则；即 例：Coffee -- tea?（咖啡还是茶？）
+other , 其他；另外；别的；其余 例：Some people left, -- stayed.（有些人走了，其他人留了下来）
+out , 出去；外出；向外；显现 例：Let’s go --.（让我们出去吧）
+people , 人们；大众；人民；民族 例：Many -- like music.（许多人喜欢音乐）
+really , 真正地；确实；非常；实际上 例：I -- like this.（我真的喜欢这个）
+right , 对的；正确；右边；权利 例：You are --.（你是对的）
+said(过去时) , 说；发表；声明；上述的 例：He -- he was busy.（他说他忙）
+say(现在时) , 说；讲；表示；比方说 例：What did you --?（你说了什么？）
+see , 看见；理解；会面；看望 例：I -- you.（我看见你了）
+she , 她；那位女士；雌性；女性 例：-- is my sister.（她是我妹妹）
+should , 应该；应当；大概；竟然 例：You -- study more.（你应该多学习）
+so , 如此；所以；那么；非常 例：I’m -- happy today.（我今天很开心）
+some , 一些；若干；某些；大约 例：I need -- help.（我需要一些帮助）
+something , 某物；某事；一点；要紧事 例：I have -- for you.（我有东西给你）
+take , 拿；带走；花费；接受 例：-- this pen.（拿上这支笔）
+tell , 告诉；讲述；吩咐；判断 例：-- me the truth.（告诉我真相）
+than , 比；超过；与其；除……外 例：He is taller -- me.（他比我高）
+that , 那；那个；如此；因为 例：-- is my car.（那是我的车）
+the(定冠词) , 这个；那个；这些；最……的 例：-- cat is sleeping.（这只猫在睡觉）
+their , 他们的；她们的；它们的；人们的 例：-- house is large.（他们的房子很大）
+them(宾格) , 他们；她们；它们；那些人 例：I saw -- in the park.（我在公园里见到他们）
+then , 然后；当时；接着；那么 例：I ate dinner, -- went to bed.（我吃完饭后就去睡了）
+there , 那里；那儿；存在；在那点上 例：Put it over --.（把它放在那里）
+these , 这些；此些；这些人；这些事物 例：-- books are mine.（这些书是我的）
+they , 他们；她们；它们；人们 例：-- are my friends.（他们是我的朋友）
+thing , 事情；东西；物品；状况 例：What is that --?（那是什么东西？）
+think , 思考；认为；想；考虑 例：I -- we should leave now.（我认为我们现在应该走）
+this , 这个；这件；本；如今 例：-- is my phone.（这是我的手机）
+to , 到；向；对于；给 例：I want -- go home.（我想回家）
+too , 太；也；过于；而且 例：It’s -- hot today.（今天太热了）
+up , 向上；起来；完全；建成 例：Look --.（往上看）
+use , 使用；利用；耗费；用途 例：-- this tool.（用这个工具）
+very , 非常；十分；正是；彻底 例：This is -- important.（这非常重要）
+want , 想要；希望；需要；缺乏 例：I -- a new car.（我想要一辆新车）
+way , 方法；道路；方式；方向 例：That’s a good -- to solve the problem.（那是解决问题的好方法）
+we , 我们；咱们；吾等；笔者 例：-- are ready.（我们准备好了）
+well , 好吧；很好；健康；井 例：--, let’s start now.（好吧，让我们现在开始）
+what , 什么；何事；多少；所……的事 例：-- are you doing?（你在做什么？）
+when , 当时；什么时候；几时；在……时 例：I was sleeping -- you called.（你打电话时我在睡觉）
+where , 在哪里；到哪儿；在……地方；何处 例：-- do you live?（你住在哪里？）
+which , 哪一个；哪些；哪个；哪种 例：-- one do you prefer?（你更喜欢哪一个？）
+who , 谁；什么人；哪个人；……的人 例：-- is that man?（那个人是谁？）
+why , 为什么；为何；怎么；原因 例：-- did you do that?（你为什么那样做？）
+will , 将；要；愿意；意志 例：I -- go tomorrow.（我明天要去）
+with , 与；和；用；由于 例：I went -- him.（我和他一起去的）
+would , 会；愿意；将要；可能 例：I -- like some coffee.（我想要一些咖啡）
+yeah , 是的；嗯；好啊；没错 例：--, I agree.（是啊，我同意）
+yes , 是的；对；好；同意 例：--, you’re right.（是的，你是对的）
+you , 你；你们；您；各位 例：-- are my friend.（你是我的朋友）

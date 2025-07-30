@@ -1,0 +1,98 @@
+actually , 实际上 例：I -- want to tell you something.（我实际上想告诉你一些事）
+after , 在……以后；后来 例：I’ll call you -- dinner.（我吃完晚饭后会给你打电话）
+again , 再一次 例：Let’s try --.（让我们再试一次）
+already , 已经 例：I’ve -- finished my homework.（我已经完成作业了）
+always , 总是 例：I -- wake up early.（我总是早起）
+anything , 任何事 例：Is there -- I can do to help?（有什么我能帮忙的吗？）
+another , 另一个 例：I need -- chance.（我需要另一个机会）
+any , 任何 例：Do you have -- idea what to do next?（你有任何想法接下来该做什么吗？）
+around , 周围 例：Look -- you.（看看你周围）
+ask , 问 例：Can I -- you a question?（我能问你一个问题吗？）
+away , 远离 例：Stay -- from the fire.（远离火源）
+big , 大的 例：That’s a -- house.（那是一栋大房子）
+best , 最好的；最好地；最好的人(或物)；胜过 例：He’s my -- friend.（他是我最好的朋友）
+better , 更好的；好转的 例：I feel -- now.（我现在感觉好多了）
+before , 在……以前；向……（此处原文似有混淆，直接保留“在……以前”含义） 例：I’ve never seen this --.（我以前从没见过这个）
+both , 两者 例：-- options are good.（两个选项都不错）
+bring , 带来 例：-- me some water, please.（请给我拿些水来）
+bit , 一点 例：I need a -- more time.（我需要再多一点时间）
+call , 打电话 例：I’ll -- you later.（我过会儿打给你）
+change , 改变 例：We need to -- our plan.（我们需要改变计划）
+course , 当然 例：--, you can join us.（当然，你可以加入我们）
+down , 向下 例：Please sit --.（请坐下）
+different , 不同的 例：This book is -- from that one.（这本书和那本不同）
+eat , 吃 例：Let’s -- dinner together.（让我们一起吃晚餐吧）
+end , 结束 例：All things -- someday.（所有事情终有结束的一天）
+every , 每一个 例：-- student must submit homework.（每个学生都必须交作业）
+everything , 一切 例：-- will be okay.（一切都会好起来）
+feel , 感觉 例：I -- tired today.（我今天感觉很累）
+friend , 朋友 例：She is my best --.（她是我最好的朋友）
+game , 游戏 例：Let’s play a --.（我们来玩个游戏）
+great , 伟大的 例：He did a -- job.（他做得很棒）
+guy , 男人；家伙；取笑（多含口语） 例：That -- is my brother.（那个家伙是我弟弟）
+hand , 手 例：Raise your -- if you know the answer.（如果你知道答案就举手）
+happen , 发生 例：What will -- next?（接下来会发生什么？）
+hear , 听见 例：I can -- you clearly.（我能清楚地听到你）
+help , 帮助 例：I need your -- with this.（我需要你帮我这个忙）
+hey , 嘿 例：--, are you there?（嘿，你在吗？）
+home , 家 例：I’ll go -- after work.（我下班后回家）
+keep , 保持 例：-- calm and carry on.（保持冷静继续下去）
+kind , 种类 例：What -- of music do you like?（你喜欢哪种音乐？）
+last , 最后 例：This is my -- chance.（这是我最后的机会）
+laugh , 笑；发笑 例：Don’t -- at me!（不要嘲笑我）
+leave , 离开 例：I have to -- now.（我现在得走了）
+life , 生命；寿命；一生 例：Enjoy your --.（享受你的生活）
+live , 住；生存 例：I -- in a small town.（我住在一个小镇上）
+long , 长的 例：That’s a -- road.（那是一条很长的路）
+lot , 许多，大量；命运；场地（根据语境） 例：I have a -- of work today.（我今天有很多工作）
+love , 爱 例：I -- this song.（我爱这首歌）
+man , 男人；人；人类 例：He’s a strong --.（他是个强壮的男人）
+many , 许多的，多的 例：I have -- books.（我有很多书）
+may , 可能（更正式或更高可能性） 例：He -- arrive soon.（他可能很快就到）
+maybe , 也许 例：-- we can watch a movie.（也许我们可以看场电影）
+mean , 意思是 例：What do you -- by that?（你那话是什么意思？）
+might , 可能（更委婉或较低可能性） 例：I -- need some help later.（我可能稍后需要帮助）
+money , 钱 例：I don’t have much --.（我没多少钱）
+most , 最多的；大多数 例：-- people like music.（大多数人喜欢音乐）
+move , 移动 例：Please -- this chair.（请把这把椅子挪一下）
+much , 多的，大量的；非常 例：Thank you so --.（非常感谢你）
+music , 音乐 例：I love --.（我喜欢音乐）
+must , 必须 例：You -- finish this today.（你今天必须完成这个）
+name , 名字 例：What’s your --?（你叫什么名字？）
+never , 从不 例：I -- give up.（我从不放弃）
+new , 新的 例：This is my -- phone.（这是我的新手机）
+next , 下一个 例：Who’s --?（下一个是谁？）
+nice , 好的，漂亮的；令人愉快的 例：Have a -- day!（祝你有美好的一天）
+nothing , 没什么 例：-- special happened.（没发生什么特别的事）
+open , 打开 例：Please -- the window.（请把窗户打开）
+over , 在上方；遍及；结束的 例：The show is --.（演出结束了）
+own , 自己的；拥有 例：I have my -- car.（我有我自己的车）
+part , 部分；使分离 例：That’s the best -- of the story.（那是故事中最精彩的部分）
+place , 地方；放置 例：Let’s meet at my --.（我们在我家见面吧）
+play , 玩 例：I want to -- outside.（我想在外面玩）
+please , 请 例：-- help me.（请帮帮我）
+point , 点 例：That’s a good --.（那是个好观点）
+put , 放 例：-- the book on the table.（把书放在桌子上）
+run , 跑 例：I -- every morning.（我每天早上跑步）
+same , 相同的；同样的 例：We are in the -- class.（我们在同一个班）
+show , 表演，展示 例：Let me -- you something.（让我给你看点东西）
+sorry , 对不起 例：I’m -- for being late.（对不起，我迟到了）
+start , 开始 例：Let’s -- the meeting now.（让我们现在开始会议）
+still , 仍然，还 例：I -- need more time.（我仍然需要更多时间）
+stop , 停止，阻止 例：-- talking, please.（请停止说话）
+such , 这样的；这种 例：I’ve never seen -- a big cat.（我从没见过这么大的猫）
+sure , 确信；肯定；有把握 例：Are you -- about that?（你确定吗？）
+talk , 谈话；谈论 例：Can we -- later?（我们可以稍后谈吗？）
+thank , 感谢；道谢 例：I -- you for your help.（我感谢你的帮助）
+those , 那些 例：-- books are mine.（那些书是我的）
+today , 今天 例：-- is my birthday.（今天是我的生日）
+through , 通过；遍及 例：Go -- the tunnel.（穿过那个隧道）
+try , 尝试；努力 例：I’ll -- again tomorrow.（我明天会再试一次）
+turn , 转动；翻动；变化 例：-- left at the corner.（在拐角处左转）
+uh , 嗯 例：--, I’m not sure.（嗯，我不确定）
+video , 视频 例：Let’s watch a --.（我们看个视频吧）
+wait , 等待 例：Please -- a moment.（请稍等一下）
+watch , 观看，注视 例：I want to -- a movie.（我想看一部电影）
+while , 当……的时候 例：Read a book -- you wait.（你等的时候看本书吧）
+world , 世界 例：The -- is so big.（世界很大）
+year , 年 例：This -- is almost over.（今年快结束了）

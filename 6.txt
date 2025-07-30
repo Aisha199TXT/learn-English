@@ -1,0 +1,109 @@
+act , 行动；表演 例：I need to -- quickly.（我需要快速行动）
+agree , 同意；赞成 例：I -- with your idea.（我同意你的想法）
+air , 空气；空中 例：The -- is fresh today.（今天的空气很清新）
+ahead , 在前面；领先 例：Go -- and start without me.（你先开始，不用等我）
+anymore , 再也不；不再 例：I don’t live there --.（我不再住在那儿了）
+apply , 申请；应用 例：I want to -- for that job.（我想申请那份工作）
+attack , 攻击；袭击 例：They plan to -- at dawn.（他们打算在黎明时攻击）
+available , 可用的；可获得的 例：This seat is --.（这个座位是空的/可用的）
+
+bear , 忍受；熊 例：I can’t -- this pain anymore.（我无法再忍受这种痛苦了）
+below , 在下面；低于 例：Look -- the table.（看看桌子下面）
+board , 板；董事会 例：He wrote on the --.（他在板子上写字）
+box , 盒子；箱子 例：Put the tools in the --.（把工具放进箱子里）
+camera , 相机；摄影机 例：I used my -- to take pictures.（我用我的相机拍了照片）
+card , 卡片；纸牌 例：This is my business --.（这是我的名片）
+channel , 频道；渠道 例：Change the TV --, please.（请换一下电视频道）
+
+clean , 清洁的；干净的 例：Make sure the kitchen is --.（确保厨房干净整洁）
+completely , 完全地；彻底地 例：I -- forgot about the meeting.（我完全忘了那个会议）
+complete , 完成；完整的 例：I need to -- this task by Friday.（我需要在周五前完成这个任务）
+consider , 考虑；认为 例：-- all options before deciding.（做决定前要考虑所有选项）
+contact , 联系；接触 例：You can -- me by email.（你可以通过邮件联系我）
+cost , 成本；费用 例：What does it -- to repair this phone?（修这手机要多少钱？）
+cry , 哭；喊叫 例：Don’t -- over it.（别为那事哭了）
+
+daughter , 女儿 例：My -- is eight years old.（我的女儿八岁了）
+death , 死亡 例：He’s afraid of --.（他害怕死亡）
+doctor , 医生；博士 例：I need to see a --.（我需要去看医生）
+draw , 画；拉 例：I like to -- pictures in my notebook.（我喜欢在笔记本里画画）
+drop , 滴；落下 例：Don’t -- the glass!（别把玻璃杯掉地上！）
+early , 早的；初期的 例：I woke up -- today.（我今天起得很早）
+especially , 尤其；特别 例：I love fruits, -- apples.（我喜欢水果，尤其是苹果）
+event , 事件；活动 例：This -- is very important.（这个活动非常重要）
+explain , 解释；说明 例：Could you -- how this works?（你能解释一下这是怎么运作的吗？）
+
+favorite , 最喜欢的；特别喜欢的 例：That’s my -- song.（那是我最喜欢的歌）
+feature , 特征；特色 例：The new phone has an amazing --.（这款新手机有个很棒的功能）
+figure , 数字；人物 例：What’s the -- in that report?（那个报告里是什么数据？）
+film , 电影；胶片 例：I watched a great -- last night.（我昨晚看了一部很棒的电影）
+force , 力量；强迫 例：They used -- to open the door.（他们用力打开了门）
+focus , 焦点；集中 例：-- on your work.（专注于你的工作）
+forward , 向前；前进 例：Move -- carefully.（小心地向前走）
+
+grunt , 咕哝；嘟哝 例：He just --ed instead of answering.（他没回答，只是咕哝了一声）
+hang , 挂；悬挂 例：-- your coat on the rack.（把你的外套挂在衣架上）
+hate , 憎恨；讨厌 例：I -- waking up early.（我讨厌早起）
+hell , 地狱；极大的痛苦 例：That’s pure --.（那简直是地狱）
+increase , 增加；提高 例：We need to -- production.（我们需要提高产量）
+interesting , 有趣的；引人入胜的 例：That book is really --.（那本书非常有趣）
+
+join , 加入；连接 例：I want to -- your team.（我想加入你们的团队）
+key , 钥匙；关键 例：This is the -- to success.（这是成功的关键）
+longer , 更长的；更久的 例：I can’t wait any --.（我不能再等了）
+low , 低的；少的 例：My battery is --.（我的电池电量很低）
+market , 市场；集市 例：Let’s go to the --.（我们去市场吧）
+marry , 结婚；嫁；娶 例：He wants to -- her.（他想娶她）
+member , 成员；会员 例：I’m a -- of the club.（我是那个俱乐部的成员）
+movie , 电影 例：Let’s watch a -- tonight.（让我们今晚看场电影吧）
+
+news , 新闻；消息 例：Did you hear the --?（你听到那个消息了吗？）
+note , 笔记；注释 例：I wrote a -- to remind myself.（我写了个笔记提醒自己）
+notice , 注意；通知 例：Did you -- the sign on the wall?（你注意到墙上的告示了吗？）
+one , 一；一个 例：I have -- apple left.（我还剩一个苹果）
+option , 选择；选项 例：We have two --s to consider.（我们有两个选项要考虑）
+
+page , 页面；页 例：Turn to the next --.（翻到下一页）
+parent , 父母；父亲或母亲 例：I’m a -- of two kids.（我有两个孩子）
+police , 警察；警方 例：Call the --!（打电话报警！）
+position , 位置；职位 例：My -- in the company is manager.（我在公司担任经理职位）
+practice , 练习；实践 例：I -- the piano every day.（我每天练习弹钢琴）
+program , 程序；计划 例：We have a new training --.（我们有一个新的培训计划）
+promise , 承诺；保证 例：I -- I’ll help you.（我保证我会帮你）
+push , 推动；按压 例：-- the door to open it.（推一下门来打开它）
+
+reach , 到达；伸手 例：I can’t -- the top shelf.（我够不到最上面的架子）
+real , 真实的；真正的 例：Is this diamond --?（这钻石是真的吗？）
+realize , 意识到；实现 例：I didn’t -- you were here.（我没意识到你在这儿）
+record , 记录；录音 例：Let’s -- our conversation.（让我们把谈话录下来）
+red , 红色的；红的 例：He’s wearing a -- shirt.（他穿着红衬衫）
+relationship , 关系；联系 例：They have a good --.（他们关系很好）
+ring , 戒指；铃声 例：He gave her a --.（他给了她一枚戒指）
+rule , 规则；统治 例：Follow the --s.（遵守规则）
+
+search , 搜索；寻找 例：I need to -- for that file.（我需要找一下那个文件）
+sense , 感觉；意义 例：That makes no --.（那没有任何意义）
+shoot , 射击；拍摄 例：They plan to -- a movie here.（他们打算在这里拍电影）
+short , 短的；矮的 例：She cut her hair --.（她把头发剪短了）
+simple , 简单的；朴素的 例：This question is --.（这个问题很简单）
+sister , 姐妹；修女 例：My -- is older than me.（我姐姐比我大）
+situation , 情况；形势 例：We have a serious -- here.（我们这里情况很严重）
+size , 大小；尺寸 例：What -- shirt do you wear?（你穿多大码的衬衫？）
+single , 单一的；单身的 例：He is still --.（他还是单身）
+shit , 粪便；糟糕的事 例：That’s a bunch of --.（那真是一堆糟糕的事）
+strong , 强壮的；坚强的 例：He is very --.（他非常强壮）
+super , 超级的；极好的 例：That meal was -- delicious.（那顿饭超级好吃）
+
+taste , 味道；品味 例：This soup has a strange --.（这汤味道怪怪的）
+teach , 教；教授 例：She --es math.（她教数学）
+third , 第三；第三的 例：He finished in -- place.（他获得第三名）
+tonight , 今晚；今夜 例：Let’s go out --.（咱们今晚出去吧）
+touch , 触摸；接触 例：Don’t -- the artwork.（不要触摸艺术品）
+trust , 信任；相信 例：I -- him completely.（我完全信任他）
+truth , 事实；真理 例：Tell me the --.（告诉我事实）
+
+view , 视图；观点 例：That’s an interesting --.（那是一个有趣的观点）
+voice , 声音；发言 例：Her -- is beautiful.（她的声音很美）
+wonder , 想知道；惊奇 例：I -- if he’ll come.（我想知道他会不会来）
+word , 单词；话语 例：What does this -- mean?（这个单词是什么意思？）
+usually , 通常；平常 例：I -- get up at 7 am.（我通常早上七点起床）

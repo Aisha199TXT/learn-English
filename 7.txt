@@ -1,0 +1,112 @@
+accept , 接受；承认；同意；认可 例：I -- your apology.（我接受你的道歉）
+access , 进入；访问；获取；通道 例：We need a password to -- this file.（我们需要密码来进入这个文件）
+account , 帐户；解释；理由；记述 例：I have an online bank --.（我有一个网上银行账户）
+across , 穿过；横越；在对面；贯穿 例：Walk -- the street carefully.（小心地穿过马路）
+action , 行动；行为；动作；情节 例：We need to take -- now.（我们现在需要采取行动）
+absolutely , 绝对地；完全地；毫无疑问地；彻底地 例：That’s -- true.（那绝对是真的）
+afraid , 害怕的；担心的；忧虑的 例：I’m -- of the dark.（我害怕黑暗）
+age , 年龄；时代；老化；时期 例：What’s your --?（你多大了？）
+alright , 好的；没问题；安然无恙 例：Are you --?（你还好吗？）
+amount , 数量；总额；总数；金额 例：That’s a large -- of money.（那是一笔很大的钱）
+appear , 出现；显现；看起来；表现 例：He suddenly --ed at the door.（他突然出现在门口）
+
+basically , 基本上；大体上；从根本上说 例：--, we need more time.（基本上来说，我们需要更多时间）
+bag , 袋子；包；装袋；包包 例：I put my lunch in a --.（我把午餐放在一个袋子里）
+ball , 球；舞会；球状物；小球 例：Let’s play -- in the park.（让我们在公园打球吧）
+beat , 打败；敲击；节拍；跳动 例：We can -- the other team.（我们能打败对方队伍）
+blood , 血液；血统；气质；生命力 例：He lost a lot of -- in the accident.（他在事故中失血很多）
+bye , 再见；拜拜；再会；回头见 例：--, see you tomorrow!（再见，明天见！）
+
+carry , 携带；搬运；传送；带来 例：I’ll -- your bag for you.（我帮你提包吧）
+certain , 确定的；某些；必然的；肯定的 例：I’m -- he’ll come.（我确定他会来）
+character , 性格；角色；人物；（文字）字符 例：He’s a funny -- in that movie.（他在那部电影里是个有趣的角色）
+charge , 充电；收费；指控；负责 例：You need to -- your phone.（你需要给手机充电）
+cheer , 欢呼；喝彩；激励；高兴 例：Let’s -- for our team!（让我们为我们的队伍欢呼吧！）
+choice , 选择；抉择；选项；精选 例：You have no -- but to try.（你别无选择只能试一下）
+cold , 寒冷的；冷漠的；感冒；冰冷 例：It’s -- outside today.（今天天气很冷）
+community , 社区；群体；社团；社会 例：Our -- is very friendly.（我们的社区非常友好）
+condition , 条件；状况；状态；前提 例：He’s in good -- after the surgery.（手术后他的状态很好）
+connect , 连接；联系；联合；衔接 例：Let’s -- the computer to the internet.（让我们把电脑连接上网）
+content , 内容；目录；满足；含量 例：Check the -- of the box.（查看一下箱子的内容）
+customer , 客户；顾客；主顾；消费者 例：The -- is always right.（顾客永远是对的）
+
+dance , 跳舞；舞蹈；舞会；舞步 例：Shall we --?（我们跳支舞吧？）
+decision , 决定；判决；结论；抉择 例：I made a -- to move abroad.（我决定搬到国外）
+detail , 细节；详情；具体信息；详述 例：Give me more --.（给我更多细节）
+difference , 差别；分歧；差异；区别 例：What’s the -- between these two?（这两者有什么区别？）
+difficult , 困难的；费力的；难对付的；棘手的 例：This math problem is --.（这道数学题很难）
+effect , 效果；影响；后果；作用 例：What’s the -- of this change?（这种变化有什么影响？）
+email , 电子邮件；邮件；发邮件；电邮 例：I sent you an --.（我给你发了一封邮件）
+energy , 能量；活力；精力；动力 例：I have no -- left today.（我今天没什么精力了）
+enter , 进入；加入；登录；输入 例：Please -- your password.（请输入你的密码）
+entire , 全部的；整个的；完整的；整体 例：He spent the -- day studying.（他把整天都用来学习）
+excuse , 原谅；借口；理由；宽恕 例：-- me for being late.（原谅我迟到了）
+
+fan , 风扇；粉丝；扇子；狂热爱好者 例：I’m a big -- of that band.（我是那个乐队的铁杆粉丝）
+feeling , 感觉；情感；心情；意识 例：I have a strange -- about this.（我对这件事有种奇怪的感觉）
+file , 文件；文档；把……归档；锉刀 例：Open the -- on your computer.（在你电脑上打开这个文件）
+fill , 填充；装满；充斥；填写 例：Please -- the bottle with water.（请把瓶子装满水）
+fly , 飞；苍蝇；飞行；飘动 例：Let’s -- to Paris this summer.（让我们今年夏天飞去巴黎吧）
+government , 政府；政体；政府机构；管理 例：The -- announced new policies.（政府宣布了新政策）
+
+health , 健康；卫生；状态；健康状况 例：Take care of your --.（照顾好你的健康）
+hide , 隐藏；躲藏；藏匿；掩饰 例：-- the keys in a safe place.（把钥匙藏在一个安全的地方）
+himself , 他自己；他本人；亲自；本身 例：He fixed the car --.（他亲自修好了车）
+hmm , 嗯；呃；表示沉思；思考 例：--, let me think about it.（嗯，让我想想）
+huge , 巨大的；庞大的；极多的；大量的 例：They have a -- house.（他们有一栋很大的房子）
+image , 图像；形象；意象；映像 例：That -- looks familiar.（那张图看起来很熟悉）
+
+lady , 女士；女子；淑女；夫人 例：She’s a kind --.（她是一位善良的女士）
+land , 土地；降落；国家；陆地 例：The plane will -- soon.（飞机马上要降落了）
+language , 语言；术语；说话方式；表达方式 例：English is a difficult -- to master.（英语是一种难以掌握的语言）
+large , 大的；大规模；宽广的；大号的 例：I have a -- family.（我有个大家庭）
+last , 最后的；上一次；持续；末尾 例：This is our -- chance.（这是我们最后的机会）
+left , 左边；离开；剩下；遗留 例：He turned -- at the corner.（他在拐角处向左转）
+leg , 腿；支柱；一段路程；裤腿 例：My -- hurts from running.（我跑步跑得腿疼）
+
+main , 主要的；最重要的；主干；首要 例：That’s our -- goal.（那是我们最主要的目标）
+material , 材料；物质；素材；布料 例：We used recycled --.（我们使用了回收材料）
+master , 主人；大师；精通；硕士 例：He’s a -- of chess.（他是下棋的大师）
+mention , 提到；说起；提名；简述 例：Don’t -- this to anyone.（不要跟任何人提起这件事）
+message , 信息；留言；通讯；通知 例：I left you a -- on your phone.（我在你手机上给你留了条信息）
+middle , 中间；当中；中期；中部 例：We met in the -- of the city.（我们在市中心见面）
+mine , 我的；矿井；开采；地雷 例：That book is --.（那本书是我的）
+model , 模型；模特；模式；原型 例：She works as a --.（她做模特工作）
+
+narrator , 叙述者；解说员；旁白；讲述人 例：The -- explained the story.（叙述者讲解了这个故事）
+office , 办公室；职务；局；处 例：He’s in his -- right now.（他现在在办公室）
+online , 在线的；联网的；虚拟；网络进行 例：We can buy tickets --.（我们可以在线买票）
+personal , 个人的；私人的；亲自；人身的 例：That’s my -- opinion.（那是我的个人观点）
+photo , 照片；图像；相片；照片作品 例：Check out this -- I took.（看看我拍的这张照片）
+player , 玩家；选手；播放器；队员 例：He’s a talented baseball --.（他是一位有天赋的棒球选手）
+prepare , 准备；预备；做好准备；调制 例：Let’s -- for the exam.（让我们为考试做准备）
+present , 目前的；礼物；呈现；出席 例：He gave me a -- for my birthday.（他给了我一份生日礼物）
+press , 按压；新闻媒体；压榨；出版社 例：Don’t -- that button yet.（还不要按那个按钮）
+protect , 保护；防护；维护；保卫 例：We should -- the environment.（我们应该保护环境）
+
+public , 公众的；公共的；公用；公开的 例：This is a -- park.（这是一个公共公园）
+quick , 快的；迅速的；灵敏的；立即的 例：We need a -- decision.（我们需要一个迅速的决定）
+quickly , 迅速地；很快地；立刻；敏捷地 例：He finished the task --.（他很快完成了任务）
+quality , 质量；品质；特性；素质 例：This product’s -- is excellent.（这产品质量很棒）
+rather , 宁可；相当；有点；倒不如 例：I’d -- stay home today.（我宁可今天待在家）
+release , 释放；发布；解放；发行 例：They will -- the new album soon.（他们很快会发行新专辑）
+remove , 移除；拆下；撤掉；删除 例：Please -- the sticker carefully.（请小心地把贴纸撕下来）
+require , 需要；要求；规定；命令 例：We -- more information.（我们需要更多信息）
+round , 圆的；回合；四舍五入；环绕 例：The table is --.（这张桌子是圆的）
+
+safe , 安全的；稳妥的；保险柜；无害的 例：Is it -- to go out at night?（晚上出去安全吗？）
+scream , 尖叫；大喊；嚎叫；呼啸 例：Don’t --, it’s just a spider.（不要尖叫，那只是一只蜘蛛）
+shall , 将要；应该；表示意愿；要不要 例：-- we begin?（我们要开始吗？）
+shot , 射击；一击；拍摄；尝试 例：He took a -- at the target.（他向靶子开了一枪）
+somebody , 某人；大人物；有人 例：-- left a message for you.（有人给你留了条信息）
+star , 星星；明星；主角；星状物 例：She’s the -- of the show.（她是这场表演的明星）
+stick , 棍子；黏住；贴；坚持 例：Use glue to -- this to the wall.（用胶水把它贴到墙上）
+straight , 笔直的；直接的；坦率的；连续的 例：Walk -- for two blocks.（往前走两个街区）
+
+table , 桌子；表格；搁置；一桌人 例：Put the dishes on the --.（把碗盘放在桌上）
+train , 火车；训练；培养；行列 例：I -- at the gym every day.（我每天都在健身房训练）
+travel , 旅行；行进；传播；移动 例：I love to -- around the world.（我喜欢环游世界）
+tree , 树；树状图；木料；家谱 例：There’s a big -- in my yard.（我院子里有一棵大树）
+trouble , 麻烦；困境；烦恼；问题 例：I’m in --.（我有麻烦了）
+value , 价值；估价；重要性；珍视 例：We -- your opinion.（我们重视你的意见）
+window , 窗口；窗；橱窗；视窗 例：Open the -- to get fresh air.（打开窗户透透气）
